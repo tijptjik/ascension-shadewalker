@@ -1,0 +1,28 @@
+{
+  "name": "ascension",
+  "version": "3.0.0",
+  "description": "Ascension III : Shadewalker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tijptjik/ascension-shadewalker.git"
+  },
+  "author": "Mart van de Ven",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tijptjik/ascension-shadewalker/issues"
+  },
+  "homepage": "https://github.com/tijptjik/ascension-shadewalker/#readme",
+  "dependencies": {
+    "d3": "^4.6.0",
+    "d3-selection-multi": "^1.0.1",
+    "gulp": "^3.9.1",
+    "semantic-ui": "^2.2.9"
+  },
+  "devDependencies": {
+    "gulp-watch-less": "^1.0.1"
+  }
+}
