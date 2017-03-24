@@ -1,3 +1,3 @@
-# ogilvy-huawei-gci
+# Asension III Shadewalker
 
-D3 Scatterplot for Huawei's Global Connectivity Index
+Game of Thrones companion game to Season 7.
