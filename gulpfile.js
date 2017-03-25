@@ -30,10 +30,8 @@ gulp.task('html', function() {
 
 gulp.task('js', function() {
     gulp.src([
-        'script.js',
-        'tooltip.js',
+        '*.js',
         './node_modules/d3/build/d3.min.js',
-        './node_modules/d3-selection-multi/build/d3-selection-multi.min.js',
-        'gci_data.csv'])
+        './node_modules/d3-selection-multi/build/d3-selection-multi.min.js'])
     .pipe(gulp.dest(destination));
 });

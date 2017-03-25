@@ -18,6 +18,7 @@
   "homepage": "https://github.com/tijptjik/ascension-shadewalker/#readme",
   "dependencies": {
     "d3": "^4.6.0",
+    "d3-container": "0.0.1",
     "d3-selection-multi": "^1.0.1",
     "gulp": "^3.9.1",
     "semantic-ui": "^2.2.9"
